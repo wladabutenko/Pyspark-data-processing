@@ -1,1 +1,3 @@
 # Pyspark-data-processing
+
+The different steps for pre-processing and data processing in PySpark are discussed here. The preprocessing methods can, of course, vary from case to case, and many different methods can be used to bring the data into the desired form. The various steps involved in data preprocessing, such as handling missing values, merging datasets, applying functions, aggregation and sorting, are discussed here.
